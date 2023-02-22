@@ -18,3 +18,13 @@ Extracting Name, Email and Phone number from the Active Property Database using 
 concatenation of the Property Address Field 
 
 <img width="1113" alt="Screen Shot 2023-02-21 at 6 10 30 PM" src="https://user-images.githubusercontent.com/125079632/220479594-b3eea495-bed3-47c6-8079-9032520d9f14.png">
+
+
+#Workflow Process
+
+
+
+<img width="960" alt="Screen Shot 2023-02-22 at 12 17 03 PM" src="https://user-images.githubusercontent.com/125079632/220705473-4912c569-6974-45e9-b052-74837f719f0d.png">
+
+
+<img width="1343" alt="Screen Shot 2023-02-22 at 12 17 23 PM" src="https://user-images.githubusercontent.com/125079632/220705571-f04db8ba-6c3a-4caa-8502-e57d2fb60f36.png">
