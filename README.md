@@ -28,3 +28,8 @@ concatenation of the Property Address Field
 
 
 <img width="1343" alt="Screen Shot 2023-02-22 at 12 17 23 PM" src="https://user-images.githubusercontent.com/125079632/220705571-f04db8ba-6c3a-4caa-8502-e57d2fb60f36.png">
+
+
+![Process Flow](https://user-images.githubusercontent.com/125079632/220969133-cc31e980-abd7-4e8a-a915-97c2122b9c8f.png)
+
+
